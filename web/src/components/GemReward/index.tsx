@@ -14,9 +14,9 @@ function getImageUrl(path: string) {
 function GemRewardVerb(type: GemRewardProps["type"]) {
   switch (type) {
     case "quest":
-      return <span>Take </span>;
+      return <span>获得 </span>;
     case "vendor":
-      return <span>Buy </span>;
+      return <span>购买 </span>;
     default:
       return <></>;
   }

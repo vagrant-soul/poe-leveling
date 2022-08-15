@@ -114,7 +114,7 @@ export function Navbar({}: NavbarProps) {
             }}
           />
           <NavAccordion
-            label="Acts"
+            label="章节"
             navExpand={navExpand}
             className={classNames(styles.navItem, {
               [styles.expand]: navExpand,
@@ -142,12 +142,12 @@ export function Navbar({}: NavbarProps) {
             }}
           />
           <NavbarItem
-            label="Github项目"
+            label="QQ频道反馈"
             expand={navExpand}
             icon={<FaGithub className={classNames("inlineIcon")} />}
             onClick={() => {
               window
-                .open("https://github.com/vagrant-soul/poe-leveling", "_blank")
+                .open("https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4pmrF&appChannel=share&businessType=9&from=246610&biz=ka", "_blank")
                 ?.focus();
               setNavExpand(false);
             }}
