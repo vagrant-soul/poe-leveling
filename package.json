@@ -1,0 +1,8 @@
+{
+  "name": "exile-leveling",
+  "homepage": "https://vagrant-soul.github.io/poe-leveling",
+  "workspaces": [
+    "seeding",
+    "web"
+  ]
+}

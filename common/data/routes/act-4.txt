@@ -1,0 +1,49 @@
+➞进入 {enter|1_4_1} #The Aqueduct
+➞进入 {enter|1_4_town} #Highgate
+➞进入 {enter|1_4_2} #The Dried Lake
+找到并杀死 {kill|Voll, Emperor of Purity}, 得到任务物品 {quest_text|Deshret's Banner}
+获得 {crafting}
+{logout}
+交任务 {quest|a4q2} #Breaking the Seal
+➞进入 {enter|1_4_3_1} #The Mines Level 1
+获得 {crafting}
+➞进入 {enter|1_4_3_2} #The Mines Level 2
+使用任务物品 {quest_text|Deshret}
+➞进入 {enter|1_4_3_3} #The Crystal Veins
+获得 {crafting}
+{waypoint|1_4_town} #Highgate
+交任务 {quest|a4q6} #An Indomitable Spirit
+{waypoint|Labyrinth_Airlock} #Aspirants' Plaza
+{ascend|normal}
+获得 {crafting|1_Labyrinth_boss_3}
+{waypoint|1_4_3_3} #The Crystal Veins
+➞进入 {enter|1_4_5_1} #Daresso's Dream
+➞进入 {enter|1_4_5_2} #The Grand Arena
+获得 {crafting}
+{waypoint|1_4_3_3} #The Crystal Veins
+➞进入 {enter|1_4_4_1} #Kaom's Dream
+➞进入 {enter|1_4_4_3} #Kaom's Stronghold
+获得 {crafting}
+➞进入 {arena|Caldera of the King}, 杀死 {kill|King Kaom}, 得到任务物品 {quest_text|The Eye of Fury}
+{logout}
+{waypoint|1_4_5_2} #The Grand Arena
+➞进入 {arena|The Ring of Blades}, 杀死 {kill|Daresso, King of Swords}, 得到任务物品 {quest_text|The Eye of Desire}
+{logout}
+{waypoint|1_4_3_3} #The Crystal Veins
+与 {generic|Lady Dialla} 交谈
+➞进入 {enter|1_4_6_1} #The Belly of the Beast Level 1
+➞进入 {enter|1_4_6_2} #The Belly of the Beast Level 2
+➞进入 {arena|The Bowels of the Beast}, kill {kill|Piety, the Abomination}
+与 {generic|Piety} 交谈
+获得 {crafting}
+➞进入 {enter|1_4_6_3} #The Harvest
+找到并杀死 {kill|Doedre Darktongue}, take {quest_text|Malachai's Lungs}
+找到并杀死 {kill|Maligaro, The Inquisitor}, take {quest_text|Malachai's Heart}
+找到并杀死 {kill|Shavronne of Umbra}, take {quest_text|Malachai's Entrails}
+交任务 {quest|a4q5} #Corpus Malachus
+➞进入 {arena|The Black Core}, 杀死 {kill|Malachai, The Nightmare}
+{logout}
+交任务 {quest|a4q1} #The Eternal Nightmare
+➞进入 {enter|1_4_7} #The Ascent
+获得 {crafting}
+激活 {quest_text|The Resonator}, 进入 {quest_text|Oriath Portal}

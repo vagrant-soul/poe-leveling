@@ -1,0 +1,70 @@
+➞进入 {enter|1_3_1} #The City of Sarn
+解救 {generic|Clarissa}并和她交谈
+➞进入 {enter|1_3_town} #The Sarn Encampment
+朝 {dir|0}方向 ➞进入 {enter|1_3_2} #The Slums
+➞进入 {enter|1_3_3_1} #The Crematorium
+完成试炼 {trial}
+找到并杀死 {kill|Piety}, 得到任务物品 {quest_text|Tolman's Bracelet}
+获取 {crafting}
+{logout}
+与 {generic|Clarissa} 交谈, 得到任务物品 {quest_text|Sewer Keys}
+交任务 {quest|a3q1} #Lost in Love
+朝 {dir|0}方向 ➞进入 {enter|1_3_2} #The Slums
+➞进入 {enter|1_3_10_1} #The Sewers
+找到 1个任务物品{quest_text|Platinum Bust}
+激活 {get_waypoint}
+找到 2个任务物品{quest_text|Platinum Bust}
+➞进入 {enter|1_3_5} #The Marketplace
+激活 {get_waypoint}
+在附近寻找 ➞进入 {enter|1_3_6} #The Catacombs
+完成试炼 {trial}
+获得 {crafting}
+{logout}
+交任务 {quest|a3q11} #Victario's Secrets
+{waypoint|1_3_5} #The Marketplace
+朝 {dir|0}方向 ➞进入 {enter|1_3_7} #The Battlefront
+朝 {dir|315}方向激活 {get_waypoint}
+朝 {dir|225}方向得到任务物品 {quest_text|Ribbon Spool}
+朝 {dir|45}方向 ➞进入 {enter|1_3_8_1} #The Solaris Temple Level 1
+➞进入 {enter|1_3_8_2} #The Solaris Temple Level 2
+➞进入 {arena|Eternal Laboratory}, 获得 {crafting}
+{waypoint|1_3_7} #The Battlefront
+朝 {dir|315}方向 ➞进入 {enter|1_3_9} #The Docks
+寻找任务物品 {quest_text|Thaumetic Sulphite}
+{logout}
+{waypoint|1_3_8_2} #The Solaris Temple Level 2
+与 {generic|Lady Dialla} 交谈
+交任务 {quest|a3q4} #The Ribbon Spool
+交任务 {quest|a3q5} #Fiery Dust, take {quest_text|Infernal Talc}
+{waypoint|1_3_10_1} #The Sewers
+使用道具烧毁 {quest_text|Undying Blockage}
+获得 {crafting}
+➞进入 {enter|1_3_13} #The Ebony Barracks
+激活 {get_waypoint}
+朝 {dir|315}方向 杀死 {kill|General Gravicius}
+➞进入 {enter|1_3_14_1} #The Lunaris Temple Level 1
+➞进入 {enter|1_3_14_2} #The Lunaris Temple Level 2
+找到并杀死 {kill|Piety}, 得到任务物品{quest_text|Tower Key}
+获得 {crafting}
+{logout}
+交任务 {quest|a3q9} #Piety's Pets
+交任务 {quest|a3q8} #Sever the Right Hand
+{waypoint|1_3_13} #The Ebony Barracks
+朝 {dir|45}方向 ➞ {enter|1_3_15} #The Imperial Gardens
+沿着大路走, 激活 {get_waypoint}
+朝 {dir|315}方向 ➞ {enter|1_3_17_1} #The Library
+激活{get_waypoint}
+找到 {generic|Loose Candle} ➞ {enter|1_3_17_2} #The Archives
+找到 4个任务物品{quest_text|Golden Page}
+{logout}
+{waypoint|1_3_17_1} #The Library
+交任务 {quest|a3q12} #A Fixture of Fate
+{waypoint|1_3_15} #The Imperial Gardens
+朝 {dir|0}方向 完成 {trial}
+获得 {crafting}
+{logout}
+➞进入 {enter|Labyrinth_Airlock} #Aspirants' Plaza
+{waypoint|1_3_15} #The Imperial Gardens
+➞进入 {enter|1_3_18_1} #The Sceptre of God
+➞进入 {enter|1_3_18_2} #The Upper Sceptre of God
+➞进入 {arena|Tower Rooftop}, 杀死 {kill|Dominus, High Templar}
