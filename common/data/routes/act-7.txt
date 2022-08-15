@@ -23,7 +23,7 @@
 交任务 {quest|a7q5} #The Silver Locket
 {waypoint|2_7_5_1} #The Chamber of Sins Level 1
 交任务 {quest|a7q3}, 获得 {quest_text|Obsidian Key} #Web of Secrets
-沿着与 {waypoint} 相同的方向探索
+沿着 {waypoint} 指向的走廊方向
 ➞进入 {enter|2_7_5_2} #The Chamber of Sins Level 2
 完成 {trial}
 获得 {crafting}

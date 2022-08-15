@@ -96,7 +96,7 @@ export function Navbar({}: NavbarProps) {
           })}
         >
           <NavbarItem
-            label="Route"
+            label="路线"
             expand={navExpand}
             icon={<FaMap className={classNames("inlineIcon")} />}
             onClick={() => {
@@ -105,7 +105,7 @@ export function Navbar({}: NavbarProps) {
             }}
           />
           <NavbarItem
-            label="Build"
+            label="BD导入"
             expand={navExpand}
             icon={<FaTools className={classNames("inlineIcon")} />}
             onClick={() => {
@@ -123,7 +123,7 @@ export function Navbar({}: NavbarProps) {
             {acts}
           </NavAccordion>
           <NavbarItem
-            label="Reset Progress"
+            label="重置进程"
             expand={navExpand}
             icon={<FaUndoAlt className={classNames("inlineIcon")} />}
             onClick={() => {
@@ -133,7 +133,7 @@ export function Navbar({}: NavbarProps) {
             }}
           />
           <NavbarItem
-            label="Export Route"
+            label="常规路线"
             expand={navExpand}
             icon={<FaRegClipboard className={classNames("inlineIcon")} />}
             onClick={() => {
@@ -142,12 +142,12 @@ export function Navbar({}: NavbarProps) {
             }}
           />
           <NavbarItem
-            label="Project on Github"
+            label="Github项目"
             expand={navExpand}
             icon={<FaGithub className={classNames("inlineIcon")} />}
             onClick={() => {
               window
-                .open("https://github.com/HeartofPhos/exile-leveling", "_blank")
+                .open("https://github.com/vagrant-soul/poe-leveling", "_blank")
                 ?.focus();
               setNavExpand(false);
             }}

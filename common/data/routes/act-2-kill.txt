@@ -1,60 +1,60 @@
-➞ {enter|1_2_1} #The Southern Forest
-➞ {enter|1_2_town} #The Forest Encampment
-Head {dir|45} ➞ {enter|1_2_2} #The Old Fields
-Find {area|1_2_2a}, place {portal|set} #The Den
-Follow the road ➞ {enter|1_2_3} #The Crossroads
-Follow the road, {waypoint|1_2_town} #The Forest Encampment
-Take {portal|use}
-➞ {enter|1_2_2a} #The Den
-Find and kill {kill|The Great White Beast}
+➞进入 {enter|1_2_1} #The Southern Forest
+➞进入 {enter|1_2_town} #The Forest Encampment
+朝 {dir|45} 方向 ➞进入 {enter|1_2_2} #The Old Fields
+找到 {area|1_2_2a}, 放置一个 {portal|set} #The Den
+沿着路走➞进入 {enter|1_2_3} #The Crossroads
+沿着路走, {waypoint|1_2_town} #The Forest Encampment
+使用 {portal|use}
+➞进入 {enter|1_2_2a} #The Den
+找到并杀死 {kill|The Great White Beast}
 {logout}
-Hand in {quest|a2q10} #The Great White Beast
+交任务 {quest|a2q10} #The Great White Beast
 {waypoint|1_2_3} #The Crossroads
-Head {dir|315} ➞ {enter|1_2_6_1} #The Chamber of Sins Level 1
-Go in same direction as {waypoint}
-➞ {enter|1_2_6_2} #The Chamber of Sins Level 2
-Complete {trial}
-Find the long hallway, kill {kill|Fidelitas, the Mourning}, take {quest_text|Baleful Gem}
+朝 {dir|315} 方向 ➞进入 {enter|1_2_6_1} #The Chamber of Sins Level 1
+顺着 {waypoint} 指向的走廊方向
+➞进入 {enter|1_2_6_2} #The Chamber of Sins Level 2
+完成 {trial}
+找到长廊, 杀死 {kill|Fidelitas, the Mourning}, 得到任务物品 {quest_text|Baleful Gem}
 {logout}
-Hand in {quest|a2q6} #Intruders in Black
+交任务 {quest|a2q6} #Intruders in Black
 {waypoint|1_2_3} #The Crossroads
-Head {dir|135} ➞ {enter|1_2_15} #The Fellshrine Ruins
-Follow the road ➞ {enter|1_2_5_1} #The Crypt Level 1
-Complete {trial}
+朝 {dir|135} 方向 ➞进入 {enter|1_2_15} #The Fellshrine Ruins
+沿着大路走 ➞进入 {enter|1_2_5_1} #The Crypt Level 1
+完成 {trial}
 {logout}
-Head {dir|225} ➞ {enter|1_2_7} #The Riverways
-Follow the road, get {get_waypoint}
-Follow the road ➞ {enter|1_2_9} #The Western Forest
-Follow the road, get {get_waypoint}
-Search the side of road opposite {waypoint}
-➞ {enter|1_2_10} #The Weaver's Chambers
-➞ {arena|The Weaver's Nest}, kill {kill|The Weaver}, take {quest_text|Maligaro's Spike}
+朝 {dir|225} 方向 ➞进入 {enter|1_2_7} #The Riverways
+沿着大路走, 激活 {get_waypoint}
+沿着大路走 ➞进入 {enter|1_2_9} #The Western Forest
+沿着大路走, 激活 {get_waypoint}
+探索 {waypoint} 路边的对面区域
+➞进入 {enter|1_2_10} #The Weaver's Chambers
+➞进入 {arena|The Weaver's Nest}, 杀死 {kill|The Weaver}, 获得 {quest_text|Maligaro's Spike}
 {logout}
-Hand in {quest|a2q4} #Sharp and Cruel
+交任务 {quest|a2q4} #Sharp and Cruel
 {waypoint|1_2_3} #The Crossroads
-Head {dir|45} ➞ {enter|1_2_4} #The Broken Bridge
-Follow road, kill {kill|Kraityn, Scarbearer}, take {quest_text|Kraityn's Amulet}
+朝 {dir|45}方向 ➞进入 {enter|1_2_4} #The Broken Bridge
+沿着路走, 杀死 {kill|Kraityn, Scarbearer}, 得到任务物品 {quest_text|Kraityn's Amulet}
 {logout}
 {waypoint|1_2_7} #The Riverways
-Look for 2 pillars near {waypoint}, follow the trail ➞ {enter|1_2_12} #The Wetlands
-Find and kill {kill|Oak, Skullbreaker}, take {quest_text|Oak's Amulet}
-Search opposite direction of the encampment entrance
+在 {waypoint} 附近有2个柱子, 顺着这个方向 ➞进入 {enter|1_2_12} #The Wetlands
+找到并杀死 {kill|Oak, Skullbreaker}, 获得 {quest_text|Oak's Amulet}
+探索营地入口的相反方向
 {waypoint|1_2_9} #The Western Forest
-Head {dir|180} look for the torch touching the road
-Follow the trail in the direction of the torch, kill {kill|Alira Darktongue}, take {quest_text|Alira's Amulet}
-Follow the road, kill {kill|Captain Arteri}
-Take {quest_text|Thaumetic Emblem}, activate {quest_text|Thaumetic Seal}
+朝 {dir|180} 方向 寻找挨着路边的火炬
+沿着火炬方向探索, 杀死 {kill|Alira Darktongue}, take {quest_text|Alira's Amulet}
+沿着路走, 杀死 {kill|Captain Arteri}
+获得 {quest_text|Thaumetic Emblem}, 启用 {quest_text|Thaumetic Seal}
 {logout}
-Hand in {quest|a2q7}, take {quest_text|The Apex} #Deal with the Bandits
+交任务 {quest|a2q7}, 得到任务物品 {quest_text|The Apex} #Deal with the Bandits
 {waypoint|1_1_town} #Lioneye's Watch
-Hand in {quest|a1q9} #The Way Forward
+交任务 {quest|a1q9} #The Way Forward
 {waypoint|1_2_12} #The Wetlands
-Poison the {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
-➞ {enter|1_2_8} #The Northern Forest
-➞ {enter|1_2_14_2} #The Caverns
-Get {crafting}
-➞ {enter|1_2_14_3} #The Ancient Pyramid
-First floor exit will be in one of the 3 corners
-Remaining floors will have the exit diagonally across from the entrance
-➞ {arena|Pyramid Apex}, kill {kill|Vaal Oversoul}
-Get {crafting}
+腐化 {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
+➞进入 {enter|1_2_8} #The Northern Forest
+➞进入 {enter|1_2_14_2} #The Caverns
+获得 {crafting}
+➞进入 {enter|1_2_14_3} #The Ancient Pyramid
+第一层的出口会在三个角落之一
+其余楼层的出口在起点入口的对面
+➞进入 {arena|Pyramid Apex}, kill {kill|Vaal Oversoul}
+获得 {crafting}
