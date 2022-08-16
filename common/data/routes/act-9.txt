@@ -3,10 +3,10 @@
 ➞进入 {enter|2_9_3} #The Vastiri Desert
 朝 {dir|90} 方向 激活 {get_waypoint}
 获得 {crafting}
-找到并获得任务物品 {quest_text|The Storm Blade}
+找到并获得任务物品 {quest_text|The Storm Blade（风暴之刃）}
 {logout}
 与 {generic|Sin} 交谈
-交任务 {quest|a9q3}, 获得 {quest_text|Bottled Storm}
+交任务 {quest|a9q3}, 获得 {quest_text|Bottled Storm（风暴之瓶）}
 {waypoint|2_9_3} #The Vastiri Desert
 朝 {dir|45} 方向 ➞ {enter|2_9_4} #The Oasis
 ➞进入 {arena|The Sand Pit}, 杀死 {kill|Shakari, Queen of the Sands}
@@ -18,7 +18,7 @@
 朝 {dir|315} 方向 激活 {get_waypoint}
 ➞进入 {enter|2_9_6} #The Boiling Lake
 朝 {dir|45} 方向寻找石化的士兵
-找到并杀死 {kill|The Basilisk}, 得到任务物品 {quest_text|Basilisk Acid}
+找到并杀死 {kill|The Basilisk}, 得到任务物品 {quest_text|Basilisk Acid（蛇怪酸液）}
 获得 {crafting}
 {logout}
 {waypoint|2_9_5} #The Foothills
@@ -29,13 +29,13 @@
 朝 {dir|315} 方向 激活 {get_waypoint}
 获得 {crafting}
 在这 {dir|315} {dir|45} {dir|225} 几个方向的中间部分
-➞进入 {arena|Shrine of the Winds}, 杀死 {kill|Garukhan, Queen of the Winds}, 得到任务物品{quest_text|Sekhema Feather}
+➞进入 {arena|Shrine of the Winds}, 杀死 {kill|Garukhan, Queen of the Winds}, 得到任务物品{quest_text|Sekhema Feather（领袖之羽）}
 {logout}
 交任务 {quest|a9q2} #The Ruler of Highgate
 {waypoint|2_9_8} #The Quarry
 朝 {dir|45} 方向 ➞进入 {enter|2_9_9} #The Refinery
 朝 {dir|45} 方向 沿着轨道
-找到并杀死 {kill|General Adus}, 得到任务物品 {quest_text|Trarthan Powder}
+找到并杀死 {kill|General Adus}, 得到任务物品 {quest_text|Trarthan Powder（特拉珊粉）}
 {logout}
 {waypoint|2_9_8} #The Quarry
 与 {generic|Sin} 交谈

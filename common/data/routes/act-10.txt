@@ -24,7 +24,7 @@
 顺时针探索 ➞进入 {enter|2_10_4} #The Desecrated Chambers
 朝 {dir|315} 方向逆时针探索
 获得 {crafting}
-➞进入 {arena|Sanctum of Innocence}, 杀死 {kill|Avarius, Reassembled}, 得到任务物品 {quest_text|The Staff of Purity}
+➞进入 {arena|Sanctum of Innocence}, 杀死 {kill|Avarius, Reassembled}, 得到任务物品 {quest_text|The Staff of Purity（纯净之杖）}
 {logout}
 与 {generic|Bannon} 交谈
 交任务 {quest|a10q2} #Death and Rebirth

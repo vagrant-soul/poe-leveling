@@ -14,7 +14,7 @@
 顺着 {waypoint} 指向的走廊方向
 ➞进入 {enter|1_2_6_2} #The Chamber of Sins Level 2
 完成 {trial}
-找到长廊, 杀死 {kill|Fidelitas, the Mourning}, 得到任务物品 {quest_text|Baleful Gem}
+找到长廊, 杀死 {kill|Fidelitas, the Mourning}, 得到任务物品 {quest_text|Baleful Gem（邪影宝石）}
 {logout}
 交任务 {quest|a2q6} #Intruders in Black
 {waypoint|1_2_3} #The Crossroads
@@ -28,28 +28,28 @@
 沿着大路走, 激活 {get_waypoint}
 探索 {waypoint} 路边的对面区域
 ➞进入 {enter|1_2_10} #The Weaver's Chambers
-➞进入 {arena|The Weaver's Nest}, 杀死 {kill|The Weaver}, 获得 {quest_text|Maligaro's Spike}
+➞进入 {arena|The Weaver's Nest}, 杀死 {kill|The Weaver}, 获得 {quest_text|Maligaro's Spike（马雷格罗的尖刺）}
 {logout}
 交任务 {quest|a2q4} #Sharp and Cruel
 {waypoint|1_2_3} #The Crossroads
 朝 {dir|45}方向 ➞进入 {enter|1_2_4} #The Broken Bridge
-沿着路走, 杀死 {kill|Kraityn, Scarbearer}, 得到任务物品 {quest_text|Kraityn's Amulet}
+沿着路走, 杀死 {kill|Kraityn, Scarbearer}, 得到任务物品 {quest_text|Kraityn's Amulet（克雷顿的古灵之记）}
 {logout}
 {waypoint|1_2_7} #The Riverways
 在 {waypoint} 附近有2个柱子, 顺着这个方向 ➞进入 {enter|1_2_12} #The Wetlands
-找到并杀死 {kill|Oak, Skullbreaker}, 获得 {quest_text|Oak's Amulet}
+找到并杀死 {kill|Oak, Skullbreaker}, 获得 {quest_text|Oak's Amulet（欧克的古灵之记）}
 探索营地入口的相反方向
 {waypoint|1_2_9} #The Western Forest
 朝 {dir|180} 方向 寻找挨着路边的火炬
-沿着火炬方向探索, 杀死 {kill|Alira Darktongue}, take {quest_text|Alira's Amulet}
+沿着火炬方向探索, 杀死 {kill|Alira Darktongue}, take {quest_text|Alira's Amulet（阿莉亚的古灵之记）}
 沿着路走, 杀死 {kill|Captain Arteri}
-获得 {quest_text|Thaumetic Emblem}, 启用 {quest_text|Thaumetic Seal}
+获得 {quest_text|Thaumetic Emblem（奇术徽章）}, 启用 {quest_text|Thaumetic Seal（封印）}
 {logout}
-交任务 {quest|a2q7}, 得到任务物品 {quest_text|The Apex} #Deal with the Bandits
+交任务 {quest|a2q7}, 得到任务物品 {quest_text|The Apex（巨灵之印）} #Deal with the Bandits
 {waypoint|1_1_town} #Lioneye's Watch
 交任务 {quest|a1q9} #The Way Forward
 {waypoint|1_2_12} #The Wetlands
-腐化 {quest_text|Tree Roots} ➞ {enter|1_2_11} #The Vaal Ruins
+腐化 {quest_text|Tree Roots（树根）} ➞ {enter|1_2_11} #The Vaal Ruins
 ➞进入 {enter|1_2_8} #The Northern Forest
 ➞进入 {enter|1_2_14_2} #The Caverns
 获得 {crafting}

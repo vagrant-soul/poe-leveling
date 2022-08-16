@@ -110,7 +110,7 @@ function GemOrderList(
         />
         <SplitRow
           left={
-            <div className={classNames(styles.buildInfoLabel)}>Bandits</div>
+            <div className={classNames(styles.buildInfoLabel)}>盗贼</div>
           }
           right={
             <div className={classNames(styles.buildInfoValue)}>

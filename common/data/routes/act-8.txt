@@ -6,7 +6,7 @@
 ➞进入 {arena|Sewer Outlet}
 获得 {crafting}
 朝 {dir|45} 方向 ➞进入 {enter|2_8_8} #The Quay
-沿着 {dir|270} 的墙探索, 找到并获得任务物品 {quest_text|Ankh of Eternity}
+沿着 {dir|270} 的墙探索, 找到并获得任务物品 {quest_text|Ankh of Eternity（永恒十字架）}
 朝 {dir|135} 方向 ➞进入 {arena|Resurrection Site}
 与 {generic|Clarissa} 交谈, 杀死 {kill|Tolman}
 ➞进入 {enter|2_8_9} #The Grain Gate
@@ -17,7 +17,7 @@
 朝 {dir|315} 方向 ➞ {enter|2_8_12_1} #The Solaris Temple Level 1
 激活 {get_waypoint}
 ➞进入 {enter|2_8_12_2} #The Solaris Temple Level 2
-找到并杀死 {kill|Dawn, Harbinger of Solaris}, take {quest_text|Sun Orb}
+找到并杀死 {kill|Dawn, Harbinger of Solaris}, 获得 {quest_text|Sun Orb（日耀法珠）}
 获得 {crafting}
 {logout}
 交任务 {quest|a8q1} #Essence of the Hag
@@ -30,7 +30,7 @@
 朝 {dir|315} 方向 激活 {get_waypoint}
 ➞进入 {enter|2_8_7_1_} #The Lunaris Temple Level 1
 ➞进入 {enter|2_8_7_2} #The Lunaris Temple Level 2
-找到并杀死 {kill|Dusk, Harbinger of Lunaris}, take {quest_text|Moon Orb}
+找到并杀死 {kill|Dusk, Harbinger of Lunaris}, 获得 {quest_text|Moon Orb（月影法珠）}
 获得 {crafting}
 {logout}
 {waypoint|2_8_6} #The Lunaris Concourse

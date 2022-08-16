@@ -3,8 +3,8 @@
 ➞进入 {enter|1_5_town} #Overseer's Tower
 交任务 {quest|a5q1b} #Return to Oriath
 ➞进入 {enter|1_5_2} #The Control Blocks
-找到并获得 {quest_text|Miasmeter}
-找到并杀死 {kill|Justicar Casticus}, take {quest_text|Eyes of Zeal}
+找到并获得 {quest_text|Miasmeter（米亚斯表）}
+找到并杀死 {kill|Justicar Casticus}, 获得 {quest_text|Eyes of Zeal（狂巫之眼）}
 ➞进入 {enter|1_5_3} #Oriath Square
 朝 {dir|45} 方向 ➞进入 {enter|1_5_4} #The Templar Courts
 顺时针探索 ➞进入 {enter|1_5_5} #The Chamber of Innocence
@@ -20,13 +20,13 @@
 逆时针探索 ➞进入 {enter|1_5_3b} #The Ruined Square
 朝 {dir|315} 方向 激活 {get_waypoint}
 ➞进入 {enter|1_5_6} #The Ossuary
-找到并获得 {quest_text|Sign of Purity}
+找到并获得 {quest_text|Sign of Purity（纯净之印）}
 获得 {crafting}
 {logout}
 {waypoint|1_5_3b} #The Ruined Square
 朝 {dir|225} 方向找到广场
 朝 {dir|180} 方向 ➞进入 {enter|1_5_7} #The Reliquary
-找到 3个任务物品{quest_text|Kitava's Torment}, 通常在地图的角落里
+找到 3个任务物品{quest_text|Kitava's Torment（奇塔弗的受难）}, 通常在地图的角落里
 获得 {crafting}
 {logout}
 交任务 {quest|a5q7} #Kitava's Torments

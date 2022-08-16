@@ -1,14 +1,14 @@
-找到并杀死 {kill|Hillock}
-➞ 进入{enter|1_1_town} #Lioneye's Watch
+找到并杀死 {kill|Hillock（希拉克）}
+➞ 进入 {enter|1_1_town} #Lioneye's Watch
 交任务 {quest|a1q1} #Enemy at the Gate
 ➞进入 {enter|1_1_2} #The Coast
 激活 {get_waypoint}
 ➞进入 {enter|1_1_3} #The Mud Flats
-寻找并得到3个任务物品{quest_text|Glyph}
+寻找并得到3个任务物品 {quest_text|Glyph（雕文）}
 ➞进入 {enter|1_1_4_1} #The Submerged Passage
 {waypoint|1_1_2} #The Coast
 ➞进入 {enter|1_1_2a} #The Tidal Island
-找到并杀死 {kill|Hailrake}, 得到任务物品 {quest_text|Medicine Chest}
+找到并杀死 {kill|Hailrake（严寒之使）}, 得到任务物品 {quest_text|Medicine Chest（医药箱）}
 {logout}
 交任务 {quest|a1q4} #Breaking Some Eggs
 交任务 {quest|a1q5} #Mercy Mission
@@ -39,7 +39,7 @@
 {waypoint|1_1_town} #Lioneye's Watch
 从 {portal|use}
 ➞进入 {enter|1_1_9a} #The Ship Graveyard Cave
-找到任务物品(Boss可不杀) {quest_text|Allflame}
+找到任务物品(Boss可不杀) {quest_text|Allflame（不灭之火）}
 {logout}
 {waypoint|1_1_9} #The Ship Graveyard
 找到并杀死 {kill|Captain Fairgraves}

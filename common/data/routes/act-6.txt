@@ -5,7 +5,7 @@
 交任务 {quest|a6q4} #Fallen from Grace
 ➞进入 {enter|2_6_2} #The Coast
 ➞进入 {enter|2_6_4} #The Mud Flats
-找到并杀死 {kill|The Dishonoured Queen}, 得到任务物品 {quest_text|Eye of Conquest}
+找到并杀死 {kill|The Dishonoured Queen}, 得到任务物品 {quest_text|Eye of Conquest（征服之眼）}
 ➞进入 {enter|2_6_5} #The Karui Fortress
 ➞进入 {arena|Tukohama's Keep}, kill {kill|Tukohama, Karui God of War}
 获得 {crafting}
@@ -32,11 +32,11 @@
 沿着大路走到尽头
 朝 {dir|135} 方向 ➞进入 {enter|2_6_12} #The Southern Forest
 ➞进入 {enter|2_6_13} #The Cavern of Anger
-得到任务物品 {quest_text|The Black Flag}
+得到任务物品 {quest_text|The Black Flag（黑旗）}
 ➞进入 {enter|2_6_14} #The Beacon
 沿着海岸走, 获得 {crafting}
-完成 {quest_text|Pillar Push}
-点亮 {quest_text|Beacon}, 插入 {quest_text|The Black Flag}
+完成 {quest_text|Pillar Push（推2个柱子）}
+点亮 {quest_text|Beacon（灯塔）}, 插入 {quest_text|The Black Flag（黑旗））}
 与 {generic|Weylam Roth} 交谈, 航行至 {enter|2_6_15} #The Brine King's Reef
 ➞进入 {arena|The Bring King's Throne}, 杀死 {kill|Tsoagoth, The Brine King}
 {logout}
