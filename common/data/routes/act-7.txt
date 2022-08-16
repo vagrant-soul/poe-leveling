@@ -15,7 +15,7 @@
 朝 {dir|315} 方向 ➞进入 {enter|2_7_5_1} #The Chamber of Sins Level 1
 获得 {crafting}
 激活 {get_waypoint}
-激活 {quest_text|Map Device（黄金制图仪）} 用 {quest_text|Maligaro's Map（马雷格罗的地图））}
+激活 {quest_text|Map Device（黄金制图仪）} 用 {quest_text|Maligaro's Map（马雷格罗的地图）}
 ➞进入 {enter|2_7_5_map} #Maligaro's Sanctum
 ➞进入 {arena|Maligaro's Workshop}, 杀死 {kill|Maligaro, the Artist}, 获得 {quest_text|Black Venom（灾厄毒液）}
 {logout}

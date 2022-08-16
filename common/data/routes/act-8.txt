@@ -35,7 +35,7 @@
 {logout}
 {waypoint|2_8_6} #The Lunaris Concourse
 朝 {dir|135} 方向 ➞进入 {enter|2_8_13} #The Harbour Bridge
-➞进入 {arena|The Sky Shrine}, activate {generic|Statue of the Sisters}
+➞进入 {arena|The Sky Shrine}, 激活 {generic|Statue of the Sisters（姐妹塑像）}
 杀死 {kill|Lunaris, Eternal Moon} & {kill|Solaris, Eternal Sun}
 ➞进入 {enter|2_9_1} #The Blood Aqueduct
 刷怪升级到大约62级左右
